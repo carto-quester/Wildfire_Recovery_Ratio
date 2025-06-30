@@ -1,7 +1,26 @@
-/aspect_zonal_stats.csv
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
 
-/coeff_recovery.tif
+# Ignore your output files
+*.csv
+*.tif
+coeff_recovery.tif
+slope_zonal_stats.csv
+aspect_zonal_stats.csv
 
-/slope_zonal_stats.csv
+# Ignore environment directories
+venv/
+env/
+.env
 
-/Untitled.ipynb
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any log files
+*.log
