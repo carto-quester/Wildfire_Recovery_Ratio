@@ -10,6 +10,8 @@ coeff_recovery.tif
 slope_zonal_stats.csv
 aspect_zonal_stats.csv
 
+Untitled.ipynb
+
 # Ignore environment directories
 venv/
 env/
