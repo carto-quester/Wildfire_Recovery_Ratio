@@ -1,9 +1,6 @@
-# Ignore compiled Python files
-__pycache__/
-*.py[cod]
-*$py.class
 
-# Ignore your output files
+
+# Ignore output files
 *.csv
 *.tif
 coeff_recovery.tif
@@ -12,17 +9,8 @@ aspect_zonal_stats.csv
 
 Untitled.ipynb
 
-# Ignore environment directories
-venv/
-env/
-.env
 
-# Ignore system files
-.DS_Store
-Thumbs.db
 
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
 
 # Ignore any log files
 *.log
